@@ -44,9 +44,4 @@ export default function Home() {
         </section>
       </main>
 
-      <footer className="text-center text-sm text-gray-500 border-t border-gray-700 mt-20 p-6">
-        © 2025 4Padel – Design inspiriert von Canva. Realisiert als Web-App mit Next.js.
-      </footer>
-    </div>
-  );
-}
+      <footer className="text-center text-sm text-gray-500 border-t border-gray-700 mt-20 p-6
